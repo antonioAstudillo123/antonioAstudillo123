@@ -9,7 +9,7 @@
 
 ## Acerca de mí
 - 🎓 Egresado en Ingeniería en computación con [2] años de experiencia laboral en programación.
-- 🌱 Actualmente explorando nuevas tecnologías y frameworks, incluyendo **Vue.js** y **Node.js**.
+- 🌱 Actualmente explorando nuevas tecnologías y frameworks, incluyendo **Vue.js** y el ecosistema de **.NET**.
 
 
 
@@ -35,7 +35,7 @@ Sistema básico de Tickets
 ## Objetivos Actuales y a Largo Plazo
 - 💡 Mejorar mis conocimientos en **Laravel** y aprender sobre Arquitectura de software.
 - 📚 Aprender **Vue.js** para enriquecer mis proyectos front-end y mejorar la interactividad y la estructura.
-- 🔍 Explorar el desarrollo con **Node.js** y su ecosistema.
+- 🔍 Explorar el desarrollo con **.NET** y su ecosistema.
 
 
 
