@@ -29,13 +29,12 @@ Sistema básico de Tickets
 ## Habilidades Técnicas
 - **Lenguajes de Programación**: PHP, JavaScript, TypeScript(en proceso de aprendizaje) , Java (aunque hace tiempo que no lo uso, fue el lenguaje con el que aprendí a programar. https://www.youtube.com/watch?v=xFOCY21EW1g)
 - **Frameworks y Librerías**: Laravel, Livewire, Alpine.js, Vue.js (en exploración) , Bootstrap.
--  
 - **Bases de Datos**: MySQL
 
 
-## Objetivos Actuales
+## Objetivos Actuales y a Largo Plazo
 - 💡 Mejorar mis conocimientos en **Laravel** y aprender sobre Arquitectura de software.
-- 📚 Aprender **Vue.js** para enriquecer mis proyectos front-end y mejorar la interactividad.
+- 📚 Aprender **Vue.js** para enriquecer mis proyectos front-end y mejorar la interactividad y la estructura.
 - 🔍 Explorar el desarrollo con **Node.js** y su ecosistema.
 
 
