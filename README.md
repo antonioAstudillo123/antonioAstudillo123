@@ -9,9 +9,7 @@
 
 ## Acerca de mí
 - 🎓 Egresado en Ingeniería en computación con [2] años de experiencia laboral en programación.
-- 🌱 Actualmente explorando nuevas tecnologías y frameworks, incluyendo **Vue.js** y el ecosistema de **Node js**.
-
-
+- 🌱 Actualmente explorando nuevas tecnologías y frameworks. Me interesa aprender sobre Arquitectura de Software para diseñar y construir sistemas robustos, escalables y mantenibles, así como Ingeniería de Software para comprender las etapas del desarrollo de un producto y asegurar su calidad desde la concepción hasta el despliegue.
 
 
 ## Proyectos Destacados
@@ -27,7 +25,7 @@ Sistema básico de Tickets
 
 
 ## Habilidades Técnicas
-- **Lenguajes de Programación**: PHP, JavaScript, TypeScript(en proceso de aprendizaje) , Java (aunque hace tiempo que no lo uso, fue el lenguaje con el que aprendí a programar. https://www.youtube.com/watch?v=xFOCY21EW1g)
+- **Lenguajes de Programación**: PHP, JavaScript, Java (aunque hace tiempo que no lo uso, fue el lenguaje con el que aprendí a programar. https://www.youtube.com/watch?v=xFOCY21EW1g)
 - **Frameworks y Librerías**: Laravel, Livewire, Alpine.js, Vue.js (en exploración) , Bootstrap.
 - **Bases de Datos**: MySQL
 
@@ -35,7 +33,7 @@ Sistema básico de Tickets
 ## Objetivos Actuales y a Largo Plazo
 - 💡 Mejorar mis conocimientos en **Laravel** y aprender sobre Arquitectura de software.
 - 📚 Aprender **Vue.js** para enriquecer mis proyectos front-end y mejorar la interactividad y la estructura.
-- 🔍 Explorar el desarrollo con **Node js** y su ecosistema.
+- 🔍 Seguir estudiando temas de Arquitectura de Software, Ingeniería de Software y Clean Code para diseñar y desarrollar sistemas robustos, escalables, mantenibles y de alta calidad.
 
 
 
