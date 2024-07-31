@@ -26,13 +26,13 @@ Sistema básico de Tickets
 
 ## Habilidades Técnicas
 - **Lenguajes de Programación**: PHP, JavaScript, Java (aunque hace tiempo que no lo uso, fue el lenguaje con el que aprendí a programar. https://www.youtube.com/watch?v=xFOCY21EW1g)
-- **Frameworks y Librerías**: Laravel, Livewire, Alpine.js, Vue.js (en exploración) , Bootstrap.
+- **Frameworks y Librerías**: Laravel, Livewire, Alpine.js, Spring Boot(en exploración) , Bootstrap.
 - **Bases de Datos**: MySQL
 
 
 ## Objetivos Actuales y a Largo Plazo
 - 💡 Mejorar mis conocimientos en **Laravel** y aprender sobre Arquitectura de software.
-- 📚 Aprender **Vue.js** para enriquecer mis proyectos front-end y mejorar la interactividad y la estructura.
+- 📚 Aprender **Spring Boot**: Mi objetivo es introducirme y dominar Spring Boot para poder trabajar en proyectos empresariales y aportar soluciones eficientes y escalables.
 - 🔍 Seguir estudiando temas de Arquitectura de Software, Ingeniería de Software y Clean Code para diseñar y desarrollar sistemas robustos, escalables, mantenibles y de alta calidad.
 
 
