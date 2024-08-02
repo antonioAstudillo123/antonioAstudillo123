@@ -43,12 +43,6 @@
 - **Bases de Datos**:
   - ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white) **MySQL**: Gestión y diseño de bases de datos relacionales.
 
-
-- **Bases de Datos**:
-  - **MySQL**: Gestión y diseño de bases de datos relacionales.
-
-
-
 ## Objetivos Actuales y a Largo Plazo
 
 - 💡 **Mejorar mis conocimientos en Laravel y aprender sobre Arquitectura de Software**:
