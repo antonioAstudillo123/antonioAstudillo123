@@ -29,16 +29,20 @@
 ## Habilidades Técnicas
 
 - **Lenguajes de Programación**:
-  - **PHP**: Amplia experiencia en desarrollo backend.
-  - **JavaScript**: Conocimientos sólidos y uso en desarrollo frontend.
-  - **Java SE**: Lenguaje con el que aprendí a programar (aunque hace tiempo que no lo uso) [ver vídeo](https://www.youtube.com/watch?v=xFOCY21EW1g).
+  - ![PHP](https://img.shields.io/badge/-PHP-%23222222?logo=php&logoColor=white) **PHP**: Amplia experiencia en desarrollo backend.
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-%232F8CFF?logo=javascript&logoColor=white) **JavaScript**: Conocimientos sólidos y uso en desarrollo frontend.
+  - ![Java](https://img.shields.io/badge/-Java-%23F7DF1E?logo=java&logoColor=white) **Java SE**: Lenguaje con el que aprendí a programar (aunque hace tiempo que no lo uso) [ver vídeo](https://www.youtube.com/watch?v=xFOCY21EW1g).
 
 - **Frameworks y Librerías**:
-  - **Laravel**: Desarrollo de aplicaciones web robustas y escalables.
-  - **Livewire**: Integración para construir interfaces dinámicas sin salir de Laravel.
-  - **Alpine.js**: Herramienta ligera para agregar interactividad a las aplicaciones.
-  - **Vue.js**: Actualmente en proceso de exploración y aprendizaje.
-  - **Bootstrap**: Diseño de interfaces responsivas y amigables.
+  - ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white) **Laravel**: Desarrollo de aplicaciones web robustas y escalables.
+  - ![Livewire](https://img.shields.io/badge/-Livewire-%23F1F5F9?logo=livewire&logoColor=black) **Livewire**: Integración para construir interfaces dinámicas sin salir de Laravel.
+  - ![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white) **Alpine.js**: Herramienta ligera para agregar interactividad a las aplicaciones.
+  - ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white) **Vue.js**: Actualmente en proceso de exploración y aprendizaje.
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237A3B5C?logo=bootstrap&logoColor=white) **Bootstrap**: Diseño de interfaces responsivas y amigables.
+
+- **Bases de Datos**:
+  - ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white) **MySQL**: Gestión y diseño de bases de datos relacionales.
+
 
 - **Bases de Datos**:
   - **MySQL**: Gestión y diseño de bases de datos relacionales.
