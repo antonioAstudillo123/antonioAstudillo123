@@ -57,9 +57,8 @@
   - Aprender y aplicar principios de diseño y patrones de arquitectura.
   - Desarrollar sistemas robustos, escalables, mantenibles y de alta calidad siguiendo las mejores prácticas de clean code.
 
-- 🌐 **Adentrarme en el ecosistema de Node.js**:
-  - Explorar y dominar Node.js para expandir mis habilidades en desarrollo backend.
-  - Aprovechar las oportunidades laborales y proyectos que requieren conocimientos de Node.js.
+- 🌐 **Adentrarme en el ecosistema de Node.js o al ecosistema .NET**:
+  - A raíz de la creciente oferta que existe en ambas tecnologías dentro de mi zona, estoy considerando seríamente adentrarme a alguna de las dos. Por mi experiencia con JavaScript me convendría Node.js, pero me atraen mucho los lenguajes fuertemente tipado como C#. 
 
 
 
