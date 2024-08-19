@@ -37,7 +37,6 @@
   - ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white) **Laravel**: Desarrollo de aplicaciones web robustas y escalables.
   - ![Livewire](https://img.shields.io/badge/-Livewire-%23F1F5F9?logo=livewire&logoColor=black) **Livewire**: Integración para construir interfaces dinámicas sin salir de Laravel.
   - ![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white) **Alpine.js**: Herramienta ligera para agregar interactividad a las aplicaciones.
-  - ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white) **Vue.js**: Actualmente en proceso de exploración y aprendizaje.
   - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237A3B5C?logo=bootstrap&logoColor=white) **Bootstrap**: Diseño de interfaces responsivas y amigables.
 
 - **Bases de Datos**:
