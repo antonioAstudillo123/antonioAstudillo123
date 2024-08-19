@@ -47,11 +47,7 @@
 - 💡 **Mejorar mis conocimientos en Laravel y aprender sobre Arquitectura de Software**:
   - Profundizar en las funcionalidades avanzadas de Laravel.
   - Aplicar principios sólidos de arquitectura de software para desarrollar aplicaciones estructuradas y escalables.
-
-- 📚 **Dominar Vue.js**:
-  - Introducirme y dominar Vue.js para crear soluciones frontend completas y escalables.
-  - Integrar eficazmente Vue.js con Laravel en el backend para desarrollar aplicaciones full-stack robustas.
-
+    
 - 🔍 **Estudiar Arquitectura de Software, Ingeniería de Software y Clean Code**:
   - Aprender y aplicar principios de diseño y patrones de arquitectura.
   - Desarrollar sistemas robustos, escalables, mantenibles y de alta calidad siguiendo las mejores prácticas de clean code.
