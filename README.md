@@ -20,7 +20,7 @@
   - **Contraseña:** rasmuslerdorf
 
 - **Sistema Básico de Tickets**: Aplicación para la gestión de tickets de soporte.
-  - [Sistema de Tickets](https://ajjacacsbro.tech/)
+  - [Sistema de Tickets](https://pink-tarsier-132532.hostingersite.com/)
   - **Usuario:** antonio@gmail.com
   - **Contraseña:** password
 
