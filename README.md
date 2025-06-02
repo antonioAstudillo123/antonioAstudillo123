@@ -2,10 +2,6 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=antonioAstudillo123&label=Visitas&color=0e75b6&style=flat)
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioAstudillo123&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioAstudillo123&layout=compact&theme=tokyonight)
-
 
 # ¡Hola, soy Antonio Astudillo!
 
