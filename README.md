@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+en+PHP+con+Laravel;En+entrenamiento+de+l%C3%B3gica+y+estructura+de+datos+con+Python;Apasionado+por+el+c%C3%B3digo+limpio+y+la+arquitectura)](https://git.io/typing-svg)
 
+![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioAstudillo123&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioAstudillo123&layout=compact&theme=tokyonight)
 
 
 # ¡Hola, soy Antonio Astudillo!
