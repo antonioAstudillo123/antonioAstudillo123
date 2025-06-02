@@ -2,6 +2,9 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=antonioAstudillo123&label=Visitas&color=0e75b6&style=flat)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Backend+en+PHP+con+Laravel;En+entrenamiento+de+l%C3%B3gica+y+estructura+de+datos+con+Python;Apasionado+por+el+c%C3%B3digo+limpio+y+la+arquitectura)](https://git.io/typing-svg)
+
+
 
 # ¡Hola, soy Antonio Astudillo!
 
