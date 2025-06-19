@@ -27,7 +27,7 @@ Actualmente me encuentro en un proceso de especialización para dominar el desar
   - **Usuario:** antonio@gmail.com | **Contraseña:** rasmuslerdorf
 
 - **🎫 Sistema de Tickets de Soporte**
-  - [Ver Proyecto]((http://tickets.143.198.186.31.nip.io/login))
+  - [Ver Proyecto](http://tickets.143.198.186.31.nip.io/login)
   - **Usuario:** admin@gmail.com | **Contraseña:** password
 
 ---
