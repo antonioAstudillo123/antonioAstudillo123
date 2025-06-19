@@ -22,7 +22,7 @@ Actualmente me encuentro profundizando en el **stack Laravel – Vue – TypeScr
 
 - **🛒 Tienda Virtual en Laravel**
   - [Ver Proyecto](http://143.198.186.31/)
-  - **Usuario:** antonio@gmail.com | **Contraseña:** rasmuslerdorf
+  - **Usuario:** admin@gmail.com | **Contraseña:** password
   - Proyecto en desarrollo: sistema de ecommerce con gestión de pedidos, inventario y reportes.
   
 - **🎫 Sistema de Tickets de Soporte**
