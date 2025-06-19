@@ -23,8 +23,9 @@ Actualmente me encuentro en un proceso de especialización para dominar el desar
 ## 🧩 Proyectos Destacados
 
 - **🛒 Tienda Virtual Desarrollada en PHP y Laravel**
-  - [Ver Proyecto](https://www.antonioastudillo.com/)
+  - [Ver Proyecto](http://143.198.186.31/)
   - **Usuario:** antonio@gmail.com | **Contraseña:** rasmuslerdorf
+  - Estoy trabajando en este proyecto, lo estoy migrando de PHP puro al stack TALL
 
 - **🎫 Sistema de Tickets de Soporte**
   - [Ver Proyecto](http://tickets.143.198.186.31.nip.io/login)
