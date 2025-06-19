@@ -72,7 +72,5 @@ Actualmente me encuentro profundizando en el **stack Laravel – Vue – TypeScr
 
 ---
 
-## 📫 ¿Quieres contactarme?
 
-Si deseas saber más sobre mis proyectos o colaborar, puedes escribirme vía GitHub o LinkedIn.
 
