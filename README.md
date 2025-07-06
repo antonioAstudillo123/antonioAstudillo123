@@ -13,7 +13,7 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 
 - 👨‍💻 Actualmente me encuentro en proceso de **especialización como ingeniero de software backend**, profundizando en Laravel, SQL avanzado, arquitectura limpia y patrones de diseño.
 - 🧠 Estoy reforzando mis conocimientos en **estructuras de datos y algoritmia**, aplicándolos a través de PHP y TypeScript.
-- ☁️ Tengo experiencia en despliegue profesional utilizando **Laravel Forge + DigitalOcean**, con manejo de colas, workers, entornos productivos y optimización de servidores.
+- ☁️ Tengo experiencia en despliegue profesional utilizando **Laravel Forge + DigitalOcean**.
 - 🧼 Mi enfoque está en escribir **código limpio, mantenible y escalable**, aplicando principios **SOLID** y diseño modular.
 
 ---
