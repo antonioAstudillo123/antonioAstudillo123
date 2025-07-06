@@ -5,16 +5,16 @@
 # 👋 ¡Hola! Soy Antonio Astudillo
 
 🎯 **Desarrollador Backend Jr. especializado en el stack Laravel – Livewire – MySQL**  
-Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio, la calidad del código y la arquitectura limpia.
+Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio, la calidad del código y los principios sólidos de ingeniería de software.
 
 ---
 
 ## 🧭 Sobre mí
 
-- 👨‍💻 Actualmente me encuentro en proceso de especialización como **ingeniero de software backend**, dominando Laravel, SQL avanzado y buenas prácticas.
-- 🧠 Uso **Java** como lenguaje de entrenamiento para mejorar mis habilidades en estructuras de datos, patrones de diseño y arquitectura de software.
-- ☁️ Con experiencia real desplegando proyectos en **Laravel Forge + DigitalOcean**, optimizando colas, almacenamiento y entornos productivos.
-- 🧼 Enfocado en escribir código limpio, mantenible y escalable aplicando **principios SOLID** y diseño modular.
+- 👨‍💻 Actualmente me encuentro en proceso de **especialización como ingeniero de software backend**, profundizando en Laravel, SQL avanzado, arquitectura limpia y patrones de diseño.
+- 🧠 Estoy reforzando mis conocimientos en **estructuras de datos y algoritmia**, aplicándolos a través de PHP y TypeScript.
+- ☁️ Tengo experiencia en despliegue profesional utilizando **Laravel Forge + DigitalOcean**, con manejo de colas, workers, entornos productivos y optimización de servidores.
+- 🧼 Mi enfoque está en escribir **código limpio, mantenible y escalable**, aplicando principios **SOLID** y diseño modular.
 
 ---
 
@@ -24,7 +24,7 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 - [Ver proyecto](http://antonioastudillo.shop/)
 - **Usuario:** `admin@gmail.com` | **Contraseña:** `password`
 - Sistema modular con gestión de pedidos, inventario, almacén, reportes y facturación.  
-- ⚠️ Actualmente en proceso de desarrollo.
+- ⚠️ Actualmente en desarrollo y evolución hacia arquitectura limpia.
 
 ### 🎫 Sistema de Tickets de Soporte
 - [Ver proyecto](http://tickets.143.198.186.31.nip.io/login)
@@ -39,7 +39,7 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 ![PHP](https://img.shields.io/badge/-PHP-%23222222?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/-Livewire-%23F1F5F9?logo=livewire&logoColor=black)
 
 ### 💻 Frontend complementario
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🛢️ Base de datos
 ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white)
@@ -49,19 +49,21 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 
 ---
 
-## 🎯 Objetivos (2025 - 2027)
+## 🎯 Objetivos profesionales (2025 - 2027)
 
 ### 🧱 Backend y arquitectura
-- Dominar Laravel como framework profesional.
-- Aplicar arquitectura limpia, separación por capas, DTOs, eventos, y pruebas automatizadas.
-- Diseñar bases de datos robustas, normalizadas y eficientes con SQL avanzado.
+- Dominar Laravel como framework profesional aplicando **arquitectura limpia** y diseño por capas.
+- Implementar servicios, repositorios, DTOs, pruebas automatizadas y eventos.
+- Diseñar y mantener **bases de datos relacionales robustas y optimizadas** con SQL avanzado.
 
-### 🔍 Fundamentos de ingeniería de software
-- Estudiar **estructuras de datos, algoritmos y patrones de diseño** con Java.
-- Desarrollar pensamiento abstracto y resolutivo para resolver problemas complejos.
+### 🧠 Fundamentos de programación
+- Profundizar en **estructuras de datos y algoritmos** aplicados a la resolución de problemas reales.
+- Estudiar **patrones de diseño** y su implementación en proyectos PHP modernos.
+- Desarrollar pensamiento arquitectónico para construir sistemas escalables y mantenibles.
 
 ### 🚀 DevOps
-- Optimizar despliegues con Laravel Forge, colas, workers y configuraciones avanzadas de servidor.
+- Automatizar despliegues y configurar entornos de producción estables y seguros.
+- Dominar colas, workers, jobs y estrategias de optimización en Laravel.
 
 ---
 
@@ -69,11 +71,12 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 
 - `Laravel: Up & Running` – Matt Stauffer  
 - `PHP Objects, Patterns, and Practice` – Mika Schwartz  
-- `Clean Architecture (Java)` – Robert C. Martin  
-- `Eloquent Java` – para reforzar fundamentos con orientación a objetos y estructuras de datos
+- `Clean Code in PHP` – Carsten Windler  
+- `Data Structures and Algorithms with JavaScript` – Michael McMillan  
+- `Grokking Algorithms` – Aditya Bhargava
 
 ---
 
-> 💬 Estoy abierto a colaborar en proyectos backend, refactorizar código legacy o crear soluciones desde cero aplicando buenas prácticas de arquitectura.
+> 💬 Estoy abierto a colaborar en proyectos backend, refactorizar código legacy o diseñar nuevas soluciones aplicando buenas prácticas y arquitectura escalable.
 
 ---
