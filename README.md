@@ -2,75 +2,78 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=antonioAstudillo123&label=Visitas&color=0e75b6&style=flat)
 
-# ¡Hola, soy Antonio Astudillo!
+# 👋 ¡Hola! Soy Antonio Astudillo
 
-👨‍💻 **Desarrollador Backend Jr. especializado en Laravel + MySQL**  
-Actualmente me encuentro profundizando en el **stack Laravel – Vue – TypeScript – MySQL**, con enfoque en el desarrollo backend profesional, buenas prácticas, escalabilidad y despliegue moderno.
-
----
-
-## 🚀 Acerca de mí
-
-- 🎓 Ingeniero en Computación con experiencia en desarrollo de sistemas internos, tiendas virtuales y automatización de procesos.
-- 🧠 Enfocado en escribir código limpio, estructurado y mantenible aplicando principios SOLID y patrones de diseño.
-- ☁️ Experiencia con despliegue profesional usando **Laravel Forge + DigitalOcean**.
-- 💼 Busco consolidarme como desarrollador backend especializado en Laravel.
+🎯 **Desarrollador Backend Jr. especializado en el stack Laravel – Livewire – MySQL**  
+Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio, la calidad del código y la arquitectura limpia.
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧭 Sobre mí
 
-- **🛒 Tienda Virtual en Laravel**
-  - [Ver Proyecto](http://143.198.186.31/)
-  - **Usuario:** admin@gmail.com | **Contraseña:** password
-  - Proyecto en desarrollo: sistema de ecommerce con gestión de pedidos, inventario y reportes.
-  
-- **🎫 Sistema de Tickets de Soporte**
-  - [Ver Proyecto](http://tickets.143.198.186.31.nip.io/login)
-  - **Usuario:** admin@gmail.com | **Contraseña:** password
-  - Proyecto adicional que muestra habilidades de autenticación, CRUD, relaciones y despliegue web.
+- 👨‍💻 Actualmente me encuentro en proceso de especialización como **ingeniero de software backend**, dominando Laravel, SQL avanzado y buenas prácticas.
+- 🧠 Uso **Java** como lenguaje de entrenamiento para mejorar mis habilidades en estructuras de datos, patrones de diseño y arquitectura de software.
+- ☁️ Con experiencia real desplegando proyectos en **Laravel Forge + DigitalOcean**, optimizando colas, almacenamiento y entornos productivos.
+- 🧼 Enfocado en escribir código limpio, mantenible y escalable aplicando **principios SOLID** y diseño modular.
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## 🚀 Proyectos en desarrollo
+
+### 🛒 Tienda Virtual en Laravel + Livewire
+- [Ver proyecto](http://antonioastudillo.shop/)
+- **Usuario:** `admin@gmail.com` | **Contraseña:** `password`
+- Sistema modular con gestión de pedidos, inventario, almacén, reportes y facturación.  
+- ⚠️ Actualmente en proceso de migración hacia una arquitectura limpia.
+
+### 🎫 Sistema de Tickets de Soporte
+- [Ver proyecto](http://tickets.143.198.186.31.nip.io/login)
+- **Usuario:** `admin@gmail.com` | **Contraseña:** `password`
+- CRUD completo con roles, autenticación, relaciones y panel administrativo.
+
+---
+
+## 🛠️ Stack tecnológico
 
 ### 🧠 Backend
-- ![PHP](https://img.shields.io/badge/-PHP-%23222222?logo=php&logoColor=white) **PHP**
-- ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white) **Laravel**
-- ![Livewire](https://img.shields.io/badge/-Livewire-%23F1F5F9?logo=livewire&logoColor=black) **Livewire**
+![PHP](https://img.shields.io/badge/-PHP-%23222222?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/-Livewire-%23F1F5F9?logo=livewire&logoColor=black)
 
-
-### 💻 Frontend
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?logo=typescript&logoColor=white) **TypeScript**
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white) **Vue.js**
-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white) **TailwindCSS**
-- ![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white) **Alpine.js**
+### 💻 Frontend complementario
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white)
 
 ### 🛢️ Base de datos
-- ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white) **MySQL**
+![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white)
 
-### ⚙️ Despliegue
-- ![Laravel Forge](https://img.shields.io/badge/-Laravel%20Forge-181717?logo=laravel&labelColor=orange&logoColor=white) **Laravel Forge**
-- ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-%230080FF?logo=digitalocean&logoColor=white) **DigitalOcean**
-
----
-
-## 🎯 Objetivos actuales (2025 - 2027)
-
-- 🔧 **Dominio de Laravel como backend profesional**
-  - Aplicar arquitectura limpia, principios SOLID y pruebas automatizadas.
-  - Implementar repositorios, servicios, DTOs y eventos.
-
-- 🧱 **Diseño de bases de datos escalables**
-  - Modelado avanzado, integridad referencial, y consultas eficientes con MySQL.
-
-- 🌐 **Frontend moderno con Vue + TypeScript**
-  - Dominar el ecosistema Vue, composición, estados y consumo de APIs.
-
-- 🚀 **Despliegue profesional**
-  - Automatizar despliegues, configurar colas, almacenamiento y seguridad en producción.
+### ⚙️ DevOps y despliegue
+![Laravel Forge](https://img.shields.io/badge/-Laravel%20Forge-181717?logo=laravel&labelColor=orange&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-%230080FF?logo=digitalocean&logoColor=white)
 
 ---
 
+## 🎯 Objetivos (2025 - 2027)
 
+### 🧱 Backend y arquitectura
+- Dominar Laravel como framework profesional.
+- Aplicar arquitectura limpia, separación por capas, DTOs, eventos, y pruebas automatizadas.
+- Diseñar bases de datos robustas, normalizadas y eficientes con SQL avanzado.
 
+### 🔍 Fundamentos de ingeniería de software
+- Estudiar **estructuras de datos, algoritmos y patrones de diseño** con Java.
+- Desarrollar pensamiento abstracto y resolutivo para resolver problemas complejos.
+
+### 🚀 DevOps
+- Optimizar despliegues con Laravel Forge, colas, workers y configuraciones avanzadas de servidor.
+
+---
+
+## 📘 Actualmente estudiando
+
+- `Laravel: Up & Running` – Matt Stauffer  
+- `PHP Objects, Patterns, and Practice` – Mika Schwartz  
+- `Clean Architecture (Java)` – Robert C. Martin  
+- `Eloquent Java` – para reforzar fundamentos con orientación a objetos y estructuras de datos
+
+---
+
+> 💬 Estoy abierto a colaborar en proyectos backend, refactorizar código legacy o crear soluciones desde cero aplicando buenas prácticas de arquitectura.
+
+---
