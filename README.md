@@ -24,7 +24,7 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 - [Ver proyecto](http://antonioastudillo.shop/)
 - **Usuario:** `admin@gmail.com` | **Contraseña:** `password`
 - Sistema modular con gestión de pedidos, inventario, almacén, reportes y facturación.  
-- ⚠️ Actualmente en proceso de migración hacia una arquitectura limpia.
+- ⚠️ Actualmente en proceso de desarrollo.
 
 ### 🎫 Sistema de Tickets de Soporte
 - [Ver proyecto](http://tickets.143.198.186.31.nip.io/login)
