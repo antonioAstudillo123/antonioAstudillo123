@@ -22,7 +22,7 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 
 ### 🛒 Tienda Virtual en Laravel + Livewire
 - [Ver proyecto](http://antonioastudillo.shop/)
-- **Usuario:** `admin@gmail.com` | **Contraseña:** `password`
+- **Usuario:** `admin@gmail.com` | **Contraseña:** `admin123`
 - Sistema modular con gestión de pedidos, inventario, almacén, reportes y facturación.  
 - ⚠️ Actualmente en desarrollo y evolución hacia arquitectura limpia.
 
