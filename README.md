@@ -15,6 +15,7 @@ Apasionado por el desarrollo backend robusto, centrado en la lógica de negocio,
 - 🧠 Estoy reforzando mis conocimientos en **estructuras de datos y algoritmia**, aplicándolos a través de PHP y TypeScript.
 - ☁️ Tengo experiencia en despliegue profesional utilizando **Laravel Forge + DigitalOcean**.
 - 🧼 Mi enfoque está en escribir **código limpio, mantenible y escalable**, aplicando principios **SOLID** y diseño modular.
+- Repositorio alternativo: https://github.com/AntonioAstudillo
 
 ---
 
