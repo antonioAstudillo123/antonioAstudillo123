@@ -16,7 +16,7 @@ Apasionado por construir sistemas backend sólidos, centrados en la lógica de n
 - 🧠 Refuerzo mis bases en **estructuras de datos y algoritmia**, aplicándolas a través de PHP como herramienta principal.  
 - ☁️ Experiencia en despliegue profesional con **Laravel Forge + DigitalOcean**.  
 - 🧼 Mi objetivo es escribir **código limpio, mantenible y escalable**, aplicando principios **SOLID** y diseño modular.  
-- 📂 Repositorio alternativo: [github.com/AntonioAstudillo](https://github.com/AntonioAstudillo)
+
 
 ---
 
@@ -28,10 +28,7 @@ Apasionado por construir sistemas backend sólidos, centrados en la lógica de n
 - Sistema modular con gestión de pedidos, inventario, almacén, reportes y facturación.  
 - ⚠️ Actualmente en desarrollo.
 
-### 🎫 Sistema de Tickets de Soporte
-- [Ver proyecto](http://tickets.143.198.186.31.nip.io/login)  
-- **Usuario:** `admin@gmail.com` | **Contraseña:** `password`  
-- CRUD completo con roles, autenticación, relaciones y panel administrativo.
+
 
 ---
 
