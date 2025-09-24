@@ -53,12 +53,13 @@ Apasionado por construir sistemas backend sólidos, centrados en la lógica de n
 
 ---
 
-## 🎯 Objetivos profesionales (2025–2027)
+## 🎯 Objetivos profesionales (2025–2028)
 
 ### 🧱 Backend y arquitectura
 - Dominar Laravel como framework profesional aplicando **arquitectura limpia** y diseño por capas.  
 - Implementar servicios, repositorios, DTOs, pruebas automatizadas y eventos.  
-- Diseñar y mantener **bases de datos relacionales optimizadas** con SQL avanzado y buenas prácticas de modelado.  
+- Diseñar y mantener **bases de datos relacionales optimizadas** con SQL avanzado y buenas prácticas de modelado.
+- Implementar TEST automatizados a mis proyectos. 
 
 ### 🧠 Fundamentos de programación
 - Profundizar en **estructuras de datos y algoritmos** aplicados a la resolución de problemas.  
