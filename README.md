@@ -3,79 +3,113 @@
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=antonioAstudillo123&label=Visitas&color=0e75b6&style=flat)
 
 
-# 👋 ¡Hola! Soy Antonio Astudillo
+## 🚀 Antonio Astudillo  
+**Backend Developer (PHP / Laravel / MySQL)**  
 
-🎯 **Desarrollador Backend Jr. especializado en el stack Laravel – Livewire – MySQL**  
-Apasionado por construir sistemas backend sólidos, centrados en la lógica de negocio, la escalabilidad y las buenas prácticas de ingeniería de software.
-
----
-
-## 🧭 Sobre mí
-
-- 👨‍💻 Actualmente en proceso de **especialización como ingeniero de software backend**, profundizando en Laravel, SQL avanzado, arquitectura limpia y patrones de diseño.  
-- 🧠 Refuerzo mis bases en **estructuras de datos y algoritmia**, aplicándolas a través de PHP como herramienta principal.  
-- ☁️ Experiencia en despliegue profesional con **Laravel Forge + DigitalOcean**.  
-- 🧼 Mi objetivo es escribir **código limpio, mantenible y escalable**, aplicando principios **SOLID** y diseño modular.  
-
+Construyo sistemas backend enfocados en **lógica de negocio, claridad estructural y escalabilidad real**.  
+Mi enfoque no es solo “hacer que funcione”, sino diseñar soluciones que se puedan mantener, extender y entender.
 
 ---
 
-## 🚀 Proyectos en desarrollo
+## 🧭 En qué estoy ahora
 
-### 🛒 Tienda Virtual en Laravel + Livewire
-- [Ver proyecto](http://antonioastudillo.shop/)  
-- **Usuario:** `admin@gmail.com` | **Contraseña:** `password`  
-- Sistema modular con gestión de pedidos, inventario, almacén, reportes y facturación.  
-- ⚠️ Actualmente en desarrollo.
+Actualmente estoy enfocado en convertirme en un **Backend Engineer sólido**, profundizando en:
 
+- Arquitectura por capas (Use Cases, Services, Resolvers)
+- Diseño de sistemas orientados al dominio
+- SQL aplicado a escenarios reales de negocio
+- Clean Code y separación de responsabilidades
+- Testing progresivo sobre reglas de negocio
 
-
----
-
-## 🛠️ Stack tecnológico
-
-### 🧠 Backend
-![PHP](https://img.shields.io/badge/-PHP-%23222222?logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?logo=laravel&logoColor=white) 
-![Livewire](https://img.shields.io/badge/-Livewire-%23F1F5F9?logo=livewire&logoColor=black)
-
-### 💻 Frontend complementario
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-%230a8fcd?logo=alpine&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2306B6D4?logo=tailwindcss&logoColor=white)
-
-### 🛢️ Base de datos
-![MySQL](https://img.shields.io/badge/-MySQL-%2300f?logo=mysql&logoColor=white)
-
-### ⚙️ Despliegue
-![Laravel Forge](https://img.shields.io/badge/-Laravel%20Forge-181717?logo=laravel&labelColor=orange&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-%230080FF?logo=digitalocean&logoColor=white)
+Trabajo bajo un enfoque práctico:  
+**todo lo que estudio lo aplico directamente en proyectos reales.**
 
 ---
 
-## 🎯 Objetivos profesionales (2025–2028)
+## 🧠 Cómo pienso el desarrollo
 
-### 🧱 Backend y arquitectura
-- Dominar Laravel como framework profesional aplicando **arquitectura limpia** y diseño por capas.  
-- Implementar servicios, repositorios, DTOs, pruebas automatizadas y eventos.  
-- Diseñar y mantener **bases de datos relacionales optimizadas** con SQL avanzado y buenas prácticas de modelado.
-- Implementar TEST automatizados a mis proyectos. 
-
-### 🧠 Fundamentos de programación
-- Profundizar en **estructuras de datos y algoritmos** aplicados a la resolución de problemas.  
-- Estudiar **patrones de diseño** y su implementación en PHP moderno.  
-- Desarrollar pensamiento arquitectónico para construir sistemas escalables y mantenibles.  
-
-### 📊 Frontend como complemento
-- Integrar **Vue.js** con Laravel para proyectos con interfaces dinámicas.  
-- Practicar JS de forma progresiva con el libro *Eloquent JavaScript* como base.  
+- Prefiero **casos de uso explícitos** sobre lógica dispersa  
+- Evito “magia” innecesaria, busco **código claro y expresivo**  
+- Diseño pensando en **evolución del sistema**, no solo en la entrega inmediata  
+- Uso Laravel como herramienta, pero las decisiones vienen de **principios de ingeniería**
 
 ---
 
-## 📘 Actualmente estudiando
+## 🛠️ Stack principal
 
-- *Laravel: Up & Running* – Matt Stauffer  
-- *PHP Objects, Patterns, and Practice* – Mika Schwartz  
-- *Clean Code in PHP* – Carsten Windler  
-- *Grokking Algorithms* – Aditya Bhargava  
+**Backend**
+- PHP  
+- Laravel  
+- Livewire  
 
+**Base de datos**
+- MySQL (subqueries, CTEs, window functions, optimización)
+
+**Frontend (complementario)**
+- Alpine.js  
+- Vue.js (en transición para APIs)  
+- TailwindCSS  
+
+**Datos y análisis**
+- Power BI (creación de reportes y visualización de métricas de negocio)
+
+**Infraestructura**
+- Laravel Forge  
+- DigitalOcean  
+
+---
+
+## 🧪 Proyecto principal
+
+### 🧾 Sistema POS (Point of Sale) — *En desarrollo*
+
+Sistema enfocado en flujo real de ventas, donde aplico arquitectura backend de forma consciente:
+
+- Manejo de **venta en curso (estado en memoria)**
+- Casos de uso explícitos (`AgregarProducto`, `RegistrarVenta`, etc.)
+- Validaciones de negocio (stock, pago, consistencia)
+- Separación de responsabilidades (UseCases / Services / Resolvers)
+- Preparación para testing de reglas de dominio
+
+> Este proyecto es mi laboratorio para evolucionar de desarrollador junior a backend engineer.
+
+---
+
+## 🛒 Proyecto previo
+
+### Tienda Virtual (Laravel + Livewire)
+
+- Sistema completo con flujo de compra  
+- Integración de pagos (PayPal / MercadoPago)  
+- Módulos de pedidos, inventario y gestión  
+
+---
+
+## 🎯 En qué me estoy convirtiendo
+
+Mi objetivo no es aprender muchas tecnologías, sino dominar una:
+
+> **PHP + Laravel + SQL**, llevados a un nivel donde pueda diseñar sistemas backend de complejidad media-alta.
+
+Estoy trabajando para:
+
+- Diseñar sistemas con arquitectura clara  
+- Escribir código mantenible y testeable  
+- Resolver problemas reales de negocio  
+- Generar valor a través de datos (reportes, métricas y análisis)
+
+---
+
+## 📚 Actualmente estudiando
+
+- *PHP Objects, Patterns and Practice* — Matt Zandstra  
+- *Clean Code in PHP* — Carsten Windler  
+- SQL avanzado (subqueries, window functions, modelado)
+
+---
+
+## 🤝 Filosofía de trabajo
+
+- Avanzo con enfoque, sin cambiar de stack constantemente  
+- Prefiero profundidad sobre velocidad  
+- Construyo mientras aprendo  
