@@ -2,114 +2,208 @@
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=antonioAstudillo123&label=Visitas&color=0e75b6&style=flat)
 
+# 👋 Hola, soy Antonio Astudillo
 
-## 🚀 Antonio Astudillo  
-**Backend Developer (PHP / Laravel / MySQL)**  
+### Backend Developer | PHP · Laravel · MySQL
 
-Construyo sistemas backend enfocados en **lógica de negocio, claridad estructural y escalabilidad real**.  
-Mi enfoque no es solo “hacer que funcione”, sino diseñar soluciones que se puedan mantener, extender y entender.
+Desarrollo aplicaciones web enfocadas en resolver problemas reales de negocio.
 
----
+Mi experiencia se centra principalmente en **PHP, Laravel y MySQL**, trabajando con lógica de negocio, diseño de bases de datos, testing, reportes, inventarios, ventas y despliegue de aplicaciones en servidores Linux.
 
-## 🧭 En qué estoy ahora
-
-Actualmente estoy enfocado en convertirme en un **Backend Engineer sólido**, profundizando en:
-
-- Arquitectura por capas (Use Cases, Services, Resolvers)
-- Diseño de sistemas orientados al dominio
-- SQL aplicado a escenarios reales de negocio
-- Clean Code y separación de responsabilidades
-- Testing progresivo sobre reglas de negocio
-
-Trabajo bajo un enfoque práctico:  
-**todo lo que estudio lo aplico directamente en proyectos reales.**
+Actualmente profundizo en desarrollo backend y SQL mediante proyectos completos que llevo desde el diseño y desarrollo hasta su despliegue en producción.
 
 ---
 
-## 🧠 Cómo pienso el desarrollo
+## 🚀 Proyecto destacado
 
-- Prefiero **casos de uso explícitos** sobre lógica dispersa  
-- Evito “magia” innecesaria, busco **código claro y expresivo**  
-- Diseño pensando en **evolución del sistema**, no solo en la entrega inmediata  
-- Uso Laravel como herramienta, pero las decisiones vienen de **principios de ingeniería**
+### 🧾 Sistema de Punto de Venta (POS)
 
----
+🔗 **Demo en producción:**  
+https://pos.antonioastudillo.uk
 
-## 🛠️ Stack principal
+Sistema de punto de venta desarrollado con Laravel para gestionar el flujo operativo de un negocio: ventas, caja, inventario, movimientos y reportes.
 
-**Backend**
-- PHP  
-- Laravel  
-- Livewire  
+### Funcionalidades principales
 
-**Base de datos**
-- MySQL (subqueries, CTEs, window functions, optimización)
+- Registro de ventas y cálculo de totales
+- Control y validación de stock
+- Apertura y cierre de caja
+- Historial de cortes de caja
+- Gestión de productos, marcas y categorías
+- Entradas de inventario
+- Ajustes de inventario por diferencias físicas
+- Historial de movimientos de almacén
+- Historial y consulta de ventas
+- Filtros por fechas y criterios de negocio
+- Exportación de información a Excel
+- Dashboard con métricas y visualizaciones
+- Autenticación de usuarios
+- Pruebas automatizadas sobre flujos críticos
 
-**Frontend (complementario)**
-- Alpine.js  
-- Vue.js (en transición para APIs)  
-- TailwindCSS  
+### Reportes y métricas
 
-**Datos y análisis**
-- Power BI (creación de reportes y visualización de métricas de negocio)
+El sistema incluye un dashboard para visualizar información como:
 
-**Infraestructura**
-- Laravel Forge  
-- DigitalOcean  
+- Total vendido
+- Número de ventas
+- Ticket promedio
+- Ventas de la caja actual
+- Ventas por día
+- Productos más vendidos
+- Distribución por método de pago
+- Movimientos de inventario
 
----
+### Tecnologías
 
-## 🧪 Proyecto principal
+`PHP` · `Laravel` · `Livewire` · `Alpine.js` · `MySQL` · `Tailwind CSS` · `Chart.js` · `PHPUnit` · `Vite`
 
-### 🧾 Sistema POS (Point of Sale) — *En desarrollo*
+### Infraestructura y despliegue
 
-Sistema enfocado en flujo real de ventas, donde aplico arquitectura backend de forma consciente:
+El proyecto fue desplegado manualmente en un servidor Linux, configurando:
 
-- Manejo de **venta en curso (estado en memoria)**
-- Casos de uso explícitos (`AgregarProducto`, `RegistrarVenta`, etc.)
-- Validaciones de negocio (stock, pago, consistencia)
-- Separación de responsabilidades (UseCases / Services / Resolvers)
-- Preparación para testing de reglas de dominio
+- Ubuntu Server
+- Nginx
+- PHP-FPM
+- MySQL
+- DNS y subdominio
+- HTTPS con Let's Encrypt
+- Permisos del sistema de archivos
+- Compilación de assets con Vite
+- Entorno independiente para testing
+- Cloud Firewall
 
-> Este proyecto es mi laboratorio para evolucionar de desarrollador junior a backend engineer.
-
----
-
-## 🛒 Proyecto previo
-
-### Tienda Virtual (Laravel + Livewire)
-
-- Sistema completo con flujo de compra  
-- Integración de pagos (PayPal / MercadoPago)  
-- Módulos de pedidos, inventario y gestión  
-
----
-
-## 🎯 En qué me estoy convirtiendo
-
-Mi objetivo no es aprender muchas tecnologías, sino dominar una:
-
-> **PHP + Laravel + SQL**, llevados a un nivel donde pueda diseñar sistemas backend de complejidad media-alta.
-
-Estoy trabajando para:
-
-- Diseñar sistemas con arquitectura clara  
-- Escribir código mantenible y testeable  
-- Resolver problemas reales de negocio  
-- Generar valor a través de datos (reportes, métricas y análisis)
+Este proyecto representa mi experiencia construyendo y desplegando una aplicación Laravel completa, desde la lógica de negocio hasta su funcionamiento en un entorno de producción.
 
 ---
 
-## 📚 Actualmente estudiando
+## 🛒 Tienda Virtual
 
-- *PHP Objects, Patterns and Practice* — Matt Zandstra  
-- *Clean Code in PHP* — Carsten Windler  
-- SQL avanzado (subqueries, window functions, modelado)
+Aplicación de comercio electrónico desarrollada con Laravel y Livewire.
+
+### Funcionalidades
+
+- Catálogo de productos
+- Búsqueda y filtros
+- Carrito de compras
+- Flujo de checkout
+- Integración con PayPal y Mercado Pago
+- Gestión de pedidos
+- Seguimiento de compras
+- Administración de productos e inventario
+- Usuarios, roles y permisos
+- Reportes y métricas de negocio
+- Exportación de información
+- Panel administrativo
+
+La aplicación fue desarrollada a partir de experiencia previa trabajando con procesos reales de comercio electrónico.
 
 ---
 
-## 🤝 Filosofía de trabajo
+## 🛠️ Stack tecnológico
 
-- Avanzo con enfoque, sin cambiar de stack constantemente  
-- Prefiero profundidad sobre velocidad  
-- Construyo mientras aprendo  
+### Backend
+
+- PHP
+- Laravel
+- Livewire
+- APIs REST
+
+### Bases de datos
+
+- MySQL
+- Modelado relacional
+- Consultas complejas
+- Subqueries
+- CTEs
+- Window Functions
+- Agregaciones y métricas de negocio
+
+### Frontend
+
+- Alpine.js
+- JavaScript
+- Tailwind CSS
+- Vite
+- Chart.js
+
+### Testing
+
+- PHPUnit
+- Feature Tests
+- Unit Tests
+- Testing de reglas y flujos de negocio
+
+### Datos y reportes
+
+- SQL
+- Power BI
+- Excel
+- Exportación y procesamiento de datos
+
+### Infraestructura
+
+- Linux / Ubuntu Server
+- Nginx
+- PHP-FPM
+- MySQL
+- DigitalOcean
+- Git
+- DNS
+- HTTPS / SSL
+- Cloud Firewall
+
+---
+
+## 🧠 Áreas en las que me especializo
+
+Me interesa especialmente desarrollar sistemas relacionados con:
+
+- Puntos de venta
+- Inventarios y almacenes
+- Comercio electrónico
+- Sistemas administrativos
+- Automatización de procesos
+- Reportes y métricas de negocio
+- APIs y servicios backend
+
+Disfruto especialmente trabajar en la intersección entre:
+
+> **Backend + Bases de datos + Problemas reales de negocio**
+
+---
+
+## 📈 Actualmente profundizando en
+
+- Arquitectura de aplicaciones Laravel
+- Diseño de APIs REST
+- SQL avanzado aplicado a problemas de negocio
+- Filament
+- JavaScript
+- Testing
+- Despliegue y administración básica de aplicaciones Linux
+
+Mi enfoque de aprendizaje es práctico:
+
+> **Estudiar conceptos, aplicarlos en proyectos y llevar esos proyectos hasta producción.**
+
+---
+
+## 🎯 Objetivo profesional
+
+Busco seguir creciendo como desarrollador backend especializado en el ecosistema PHP/Laravel.
+
+Mi objetivo es fortalecer mi capacidad para:
+
+- Diseñar aplicaciones mantenibles
+- Modelar correctamente reglas de negocio
+- Trabajar con bases de datos de forma sólida
+- Construir APIs
+- Escribir pruebas automatizadas
+- Desplegar y mantener aplicaciones
+- Transformar datos operativos en información útil para el negocio
+
+---
+
+## 📫 Contacto
+
+Si te interesa mi trabajo o quieres conocer más sobre mis proyectos, puedes contactarme a través de mi perfil de GitHub.
