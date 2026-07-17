@@ -78,6 +78,17 @@ Este proyecto representa mi experiencia construyendo y desplegando una aplicaci�
 
 ## 🛒 Tienda Virtual
 
+🔗 Demo en producción:
+https://tienda.antonioastudillo.uk
+
+🔐 Panel administrativo:
+https://tienda.antonioastudillo.uk/login
+
+Credenciales de acceso
+
+Correo: admin@gmail.com
+Contraseña: password
+
 Aplicación de comercio electrónico desarrollada con Laravel y Livewire.
 
 ### Funcionalidades
